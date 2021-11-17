@@ -13,3 +13,5 @@ The classic game of tic tac toe ("gato" in México) It randomly rolls dice to se
 
 Calculator
 A basic 4 function calculator. Users can add, substract, multiply and divide on a sleek web version of a calculator.
+
+Ademas contiene aun la pagina web tematica de Harry Potter creada con anterioridad.
